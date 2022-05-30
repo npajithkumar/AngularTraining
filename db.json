@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstName": "meera",
+      "lastName": "ajith",
+      "email": "mereakumar@gmail.com",
+      "mobile": "3434334334",
+      "department": "home"
+    },
+    {
+      "id": 3,
+      "firstName": "test",
+      "lastName": "test",
+      "email": "eree@gmail.com",
+      "mobile": "12223232",
+      "department": "home"
+    },
+    {
+      "id": 4,
+      "firstName": "testee",
+      "lastName": "teree",
+      "email": "erere@gmail.com",
+      "mobile": "4555454544",
+      "department": "home"
+    }
+  ],
+  "signupUser": [
+    {
+      "fullname": "ajith",
+      "email": "ajith@gmail.com",
+      "password": "123456",
+      "mobile": 222222222,
+      "id": 1
+    },
+    {
+      "fullname": "meera",
+      "email": "meera@gmail.com",
+      "password": "12345",
+      "mobile": 9724006811,
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
