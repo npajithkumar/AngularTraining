@@ -7,6 +7,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 Run npm install -g json-server
 run json-server --watch db.json
+Navigate to `http://localhost:3000/  The Json Server is used to keep the user profile, userdata and used for post/get/delete HttpClient calls
 
 ## Code scaffolding
 
